@@ -1,8 +1,12 @@
 .clear-col {
-  background-color: lightyellow;
+  /* background-color: lightyellow; */
   color: black;
 }
 
-.pb {
+.pb-5 {
   margin-bottom: 5px;
+}
+
+.pb-10 {
+  margin-bottom: 10px;
 }
